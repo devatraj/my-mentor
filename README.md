@@ -7,11 +7,6 @@ Welcome to **My Mentor**, a full-stack web application dedicated to helping stud
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -20,6 +15,12 @@ Welcome to **My Mentor**, a full-stack web application dedicated to helping stud
 - **Create and Publish Groups**: Empower yourself by creating your own study groups. Publish these groups to invite others, fostering a community of learners who can collaborate and support each other.
 - **User-Friendly Interface**: Navigate effortlessly through our intuitively designed interface. Our platform is crafted to provide a seamless user experience, ensuring that you can focus on what matters most – learning.
 - **Secure and Reliable**: Built on the robust Django framework and utilizing the reliable SQLite3 database, our application ensures top-notch performance and security. Your data is safe, and the platform is designed to handle heavy usage without compromising on speed or efficiency.
+![image](https://github.com/user-attachments/assets/b3e0c407-2349-46e6-9ef7-e496c32720ac)
+![image](https://github.com/user-attachments/assets/c1add4ce-014d-429f-8843-ea089320e2cb)
+![image](https://github.com/user-attachments/assets/10f0a6cf-d451-43f5-9aa3-fb47f17124ec)
+![image](https://github.com/user-attachments/assets/2845dbc6-e880-4e5b-ab21-6229d57045a4)
+
+
 
 ## Tech Stack
 
